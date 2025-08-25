@@ -1,0 +1,9 @@
+A B C D E F G H
+I J K L M N O P
+Q R S T U V W X
+Y Z ( ) i type ini list
++ - * / ^ tr
+1 2 3 inv det rk
+4 5 6 eq up trans
+7 8 9 left down right
+0 . del clr ans =
